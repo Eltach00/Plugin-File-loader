@@ -1,4 +1,6 @@
 # Plugin-File-loader
 Plugin to upload images on Firebase storage
 
-used Parcel
+production files in the dist directory
+
+used Webpack
