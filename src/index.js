@@ -1,5 +1,5 @@
 import InpuFile from "./upload"
-
+import './style.css'
 
 const upload = new InpuFile('file', {
     multiple: true,
